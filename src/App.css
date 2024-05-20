@@ -1,0 +1,32 @@
+.quote-container {
+  text-align: center;
+  background-color: #FFE5B4;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px auto;
+  width: 60%;
+}
+
+.title {
+  color: #FF6347;
+}
+
+.generate-button {
+  background-color: #FF6347;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.generate-button:hover {
+  background-color: #FF4500;
+}
+
+.quote {
+  font-style: italic;
+  margin-top: 20px;
+}
